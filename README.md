@@ -48,13 +48,13 @@
 
 ### [🌏 Wanderlust – Cloud-Deployed Travel App](https://github.com/keshav-raj-gautam/wanderlust)  
 3-Tier Web Application Deployment on Kubernetes
-Tools: Docker, Jenkins, ArgoCD, Prometheus, Grafana, GitHub
--Deployed a containerized 3-tier app using CI/CD pipelines on a local Kind Kubernetes cluster.
--Created Jenkins pipelines to build, tag, and push Docker images to Docker Hub.
--Implemented GitOps workflows using ArgoCD to automate deployments on manifest updates.
--Integrated GitHub Webhooks for automatic pipeline triggering.
--Set up monitoring using Prometheus and Grafana with custom dashboards.
--Configured email alerts for deployment success and failures
+**Tools:** Docker, Jenkins, ArgoCD, Prometheus, Grafana, GitHub  
+- Deployed a containerized 3-tier app using CI/CD pipelines on a local Kind Kubernetes cluster.  
+- Created Jenkins pipelines to build, tag, and push Docker images to Docker Hub.  
+- Implemented GitOps workflows using ArgoCD to automate deployments on manifest updates.  
+- Integrated GitHub Webhooks for automatic pipeline triggering.  
+- Set up monitoring using Prometheus and Grafana with custom dashboards.  
+- Configured email alerts for deployment success and failures.  
 
 ---
 
