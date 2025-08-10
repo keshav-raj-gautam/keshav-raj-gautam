@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" alt="Azure"/><br>Azure</td>
-    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftentra.svg" width="40" alt="Entra ID"/><br>Entra ID</td>
+    <td align="center" width="80"><img src="https://user-images.githubusercontent.com/90607113/240324568-2ad4bb08-1308-4e32-93e2-5b77b50a63c9.png" width="40" alt="Entra ID"/><br>Entra ID</td>
     <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" alt="Jenkins"/><br>Jenkins</td>
     <td align="center" width="80"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub"/><br>GitHub</td>
     <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/><br>Git</td>
@@ -19,7 +19,7 @@
     <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" alt="Terraform"/><br>Terraform</td>
     <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" alt="Kubernetes"/><br>Kubernetes</td>
     <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/><br>Docker</td>
-    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gnu.svg" width="40" alt="Bash"/><br>Bash</td>
+    <td align="center" width="80"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bash_Logo_%28transparent%29.svg/1024px-Bash_Logo_%28transparent%29.svg.png" width="40" alt="Bash"/><br>Bash</td>
     <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" alt="Ansible"/><br>Ansible</td>
   </tr>
   <tr>
@@ -28,7 +28,6 @@
     <td></td><td></td><td></td>
   </tr>
 </table>
-
 
 ---
 
