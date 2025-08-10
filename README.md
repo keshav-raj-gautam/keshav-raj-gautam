@@ -1,4 +1,4 @@
-# 👋 Hello Dosto, I'm Keshav Raj Gautam  
+# 👋 Hi, I'm Keshav Raj Gautam  
 
 🚀 **Cloud & DevOps Engineer | Azure Certified | IAM Specialist**  
 🇮🇳 Based in India | Passionate about scalable cloud infra, DevOps automation & security  
