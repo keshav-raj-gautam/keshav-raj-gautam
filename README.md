@@ -65,10 +65,10 @@ Deploying on Azure using Terraform and CI/CD pipelines to automate scalable clou
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=keshav-raj-gautam&theme=react-dark&area=true)
-
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav-raj-gautam&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
 
 ---
 
