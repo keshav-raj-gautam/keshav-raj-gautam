@@ -9,25 +9,26 @@
 
 <table>
   <tr>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" /><br>Azure</td>
-    <td align="center" width="80"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Microsoft_Entra_logo.svg/1024px-Microsoft_Entra_logo.svg.png" width="40" /><br>Entra ID</td>
-    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" /><br>Jenkins</td>
-    <td align="center" width="80"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" /><br>GitHub</td>
-    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /><br>Git</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" alt="Azure"/><br>Azure</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftentra.svg" width="40" alt="Entra ID"/><br>Entra ID</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" alt="Jenkins"/><br>Jenkins</td>
+    <td align="center" width="80"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub"/><br>GitHub</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/><br>Git</td>
   </tr>
   <tr>
-    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" /><br>Terraform</td>
-    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" /><br>Kubernetes</td>
-    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" /><br>Docker</td>
-    <td align="center" width="80"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bash_Logo_%28transparent%29.svg/1024px-Bash_Logo_%28transparent%29.svg.png" width="40" /><br>Bash</td>
-    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" /><br>Ansible</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" alt="Terraform"/><br>Terraform</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" alt="Kubernetes"/><br>Kubernetes</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/><br>Docker</td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gnu.svg" width="40" alt="Bash"/><br>Bash</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" alt="Ansible"/><br>Ansible</td>
   </tr>
   <tr>
-    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" /><br>Prometheus</td>
-    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" /><br>Grafana</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" alt="Prometheus"/><br>Prometheus</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" alt="Grafana"/><br>Grafana</td>
     <td></td><td></td><td></td>
   </tr>
 </table>
+
 
 ---
 
