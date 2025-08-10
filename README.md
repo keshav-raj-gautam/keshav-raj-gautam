@@ -53,10 +53,14 @@
 ## 📂 Featured Projects  
 
 ### [🌏 Wanderlust – Cloud-Deployed Travel App](https://github.com/keshav-raj-gautam/wanderlust)  
-Cloud-native app deployed on Azure using Terraform, Docker, AKS, Jenkins, Prometheus & Grafana.  
-- React frontend | Node.js backend | MongoDB database  
-- Automated CI/CD pipelines with Jenkins  
-- Monitoring and alerting via Prometheus & Grafana  
+3-Tier Web Application Deployment on Kubernetes
+Tools: Docker, Jenkins, ArgoCD, Prometheus, Grafana, GitHub
+-Deployed a containerized 3-tier app using CI/CD pipelines on a local Kind Kubernetes cluster.
+-Created Jenkins pipelines to build, tag, and push Docker images to Docker Hub.
+-Implemented GitOps workflows using ArgoCD to automate deployments on manifest updates.
+-Integrated GitHub Webhooks for automatic pipeline triggering.
+-Set up monitoring using Prometheus and Grafana with custom dashboards.
+-Configured email alerts for deployment success and failures
 
 ---
 
@@ -73,8 +77,8 @@ Deploying on Azure using Terraform and CI/CD pipelines to automate scalable clou
 
 ## 📊 GitHub Stats  
 
-![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav-raj-gautam&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-raj-gautam&layout=compact&theme=tokyonight)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=keshav-raj-gautam&theme=react-dark&area=true)
+
 
 ---
 
