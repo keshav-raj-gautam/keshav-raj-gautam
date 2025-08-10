@@ -1,54 +1,47 @@
-# 👋 Hi, I'm Keshav Raj Gautam  
+# 👋 Hello, I'm Keshav Raj Gautam  
 
-💻 **Cloud & DevOps Engineer | Azure Certified | IAM Specialist**  
-🚀 Passionate about building scalable cloud architectures, automating deployments, and improving infrastructure security.
-
----
-
-## 🛠️ Skills & Tools
-
-<p align="left">
-<!-- Cloud -->
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/azure/active-directory/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/active-directory.png" alt="Entra ID" width="40" height="40"/>
-</a>
-
-<!-- DevOps -->
-<a href="https://www.jenkins.io/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</a>
-<a href="https://www.terraform.io/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-</a>
-<a href="https://prometheus.io/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
-</a>
-<a href="https://grafana.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
-</a>
-</p>
+🚀 **Cloud & DevOps Engineer | Azure Certified | IAM Specialist**  
+🇮🇳 Based in India | Passionate about scalable cloud infra, DevOps automation & security  
 
 ---
 
-## 📜 Certifications
+## 💼 About Me  
+
+- Specializing in Cloud Architecture, DevOps, Identity & Access Management  
+- Experienced with Azure, Terraform, Jenkins, Kubernetes, Docker & more  
+- Currently focused on deploying cloud-native applications with CI/CD pipelines  
+- Always learning new tech and best practices  
+- Open to collaboration on open-source and cloud projects  
+
+---
+
+## 🛠️ Tech Stack  
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" /><br>Azure</td>
+    <td align="center" width="80"><img src="https://img.icons8.com/color/48/000000/active-directory.png" width="40" /><br>Entra ID</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" /><br>Jenkins</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /><br>Git</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" /><br>GitHub</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" /><br>Terraform</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" /><br>Kubernetes</td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" /><br>Docker</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" /><br>Bash</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" /><br>Ansible</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" /><br>Prometheus</td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" /><br>Grafana</td>
+    <td></td><td></td><td></td>
+  </tr>
+</table>
+
+---
+
+## 📜 Certifications  
 
 [![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-blue?style=flat-square&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)  
 [![SC-300](https://img.shields.io/badge/SC--300-Identity%20and%20Access%20Administrator-blue?style=flat-square&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/identity-and-access-administrator/)  
@@ -57,39 +50,39 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects  
 
 ### [🌏 Wanderlust – Cloud-Deployed Travel App](https://github.com/keshav-raj-gautam/wanderlust)  
-Three-tier application deployed on Azure with Terraform, Docker, AKS, Jenkins, Prometheus & Grafana.  
-- Frontend: React | Backend: Node.js | Database: MongoDB  
+Cloud-native app deployed on Azure using Terraform, Docker, AKS, Jenkins, Prometheus & Grafana.  
+- React frontend | Node.js backend | MongoDB database  
 - Automated CI/CD pipelines with Jenkins  
-- Observability with Prometheus & Grafana
+- Monitoring and alerting via Prometheus & Grafana  
 
 ---
 
 ### [📚 Bookstore Web App](https://github.com/keshav-raj-gautam) *(In Progress)*  
-Minimalistic Node.js + React bookstore with admin inventory management, cart, and orders.  
-- Hosted on Azure with VMSS, App Gateway, and CDN  
-- Provisioned using Terraform, configured with Ansible
+Node.js + React bookstore hosted on Azure VMSS with App Gateway and CDN.  
+- Infrastructure as Code using Terraform and Ansible for automation  
 
 ---
 
 ### [💬 Full-Stack Chat App](https://github.com/keshav-raj-gautam/full-stack_chatApp) *(In Progress)*  
-Deploying on Azure with Terraform and CI/CD pipelines for streamlined cloud deployment and infrastructure automation.
+Deploying on Azure using Terraform and CI/CD pipelines to automate scalable cloud deployment.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 ![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav-raj-gautam&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-raj-gautam&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-raj-gautam&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keshav%20Raj%20Gautam-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-raj-gautam)  
-[![Email](https://img.shields.io/badge/Email-keshavrajgautam%40gmail.com-red?logo=gmail&logoColor=white)](mailto:keshavrajgautam@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keshav%20Raj%20Gautam-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/keshav-raj-gautam](https://www.linkedin.com/in/keshav-raj-gautam-993412319/))  
+[![Email](https://img.shields.io/badge/Email-keshavrajgautam%40gmail.com-red?logo=gmail&logoColor=white)](mailto:dilagautam@gmail.com)  
 
 ---
-⭐ *"Keep building. Keep learning. Keep improving."*
 
+⭐ *"Keep building. Keep learning. Keep improving."*
