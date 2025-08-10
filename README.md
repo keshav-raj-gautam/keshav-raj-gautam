@@ -31,30 +31,6 @@
 
 ---
 
-## 📂 Featured Projects  
-
-### [🌏 Wanderlust – 3-Tier Web Application Deployment on Kubernetes](https://github.com/keshav-raj-gautam/wanderlust)  
-**Tools:** Docker, Jenkins, ArgoCD, Prometheus, Grafana, GitHub  
-- Deployed a containerized 3-tier app using CI/CD pipelines on a local Kind Kubernetes cluster.  
-- Created Jenkins pipelines to build, tag, and push Docker images to Docker Hub.  
-- Implemented GitOps workflows using ArgoCD to automate deployments on manifest updates.  
-- Integrated GitHub Webhooks for automatic pipeline triggering.  
-- Set up monitoring using Prometheus and Grafana with custom dashboards.  
-- Configured email alerts for deployment success and failures.  
-
----
-
-### [📚 Bookstore Web App](https://github.com/keshav-raj-gautam) *(In Progress)*  
-Node.js + React bookstore hosted on Azure VMSS with App Gateway and CDN.  
-- Infrastructure as Code using Terraform and Ansible for automation  
-
----
-
-### [💬 Full-Stack Chat App](https://github.com/keshav-raj-gautam/full-stack_chatApp) *(In Progress)*  
-Deploying on Azure using Terraform and CI/CD pipelines to automate scalable cloud deployment.
-
----
-
 ## 📜 Certifications  
 
 [![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-blue?style=flat-square&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)  
