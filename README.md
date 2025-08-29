@@ -46,7 +46,7 @@
 
 ## 📂 Featured Projects  
 
-### [🌏 Wanderlust – Cloud-Deployed Travel App](https://github.com/keshav-raj-gautam/wanderlust)  
+### [ Wanderlust – Kubernetes-Deployed Travel Blogging App](https://github.com/keshav-raj-gautam/wanderlust)  
 3-Tier Web Application Deployment on Kubernetes
 **Tools:** Docker, Jenkins, ArgoCD, Prometheus, Grafana, GitHub  
 - Deployed a containerized 3-tier app using CI/CD pipelines on a local Kind Kubernetes cluster.  
@@ -58,14 +58,14 @@
 
 ---
 
-### [📚 Bookstore Web App](https://github.com/keshav-raj-gautam) *(In Progress)*  
-Node.js + React bookstore hosted on Azure VMSS with App Gateway and CDN.  
-- Infrastructure as Code using Terraform and Ansible for automation  
-
----
-
-### [💬 Full-Stack Chat App](https://github.com/keshav-raj-gautam/full-stack_chatApp) *(In Progress)*  
-Deploying on Azure using Terraform and CI/CD pipelines to automate scalable cloud deployment.
+### [Azure 3-Tier Web Application Deployment](https://github.com/keshav-raj-gautam)
+Azure 3-Tier Web Application Deployment (Terraform | Docker | VMSS)
+- Provisioned a complete 3-tier architecture on Azure using Terraform for infrastructure-as-code.
+- Created a VNet with four subnets (App Gateway, frontend, backend, DB) for secure network segmentation.
+- Deployed VM Scale Sets (VMSS) in each tier to host Docker containers.
+- Configured Azure Application Gateway with a public IP to route traffic to the frontend tier securely.
+- Set up internal load balancers and Private DNS Zone for seamless communication between tiers.
+- Automated container setup with Ansible playbooks using a jumpbox
 
 ---
 
