@@ -82,5 +82,3 @@ Azure 3-Tier Web Application Deployment (Terraform | Docker | VMSS)
 [![Email](https://img.shields.io/badge/Email-keshavrajgautam%40gmail.com-red?logo=gmail&logoColor=white)](mailto:dilagautam@gmail.com)  
 
 ---
-
-⭐ *"Keep building. Keep learning. Keep improving."*
