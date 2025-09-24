@@ -46,6 +46,20 @@
 
 ## 📂 Featured Projects  
 
+### [Cloud Resume Challenge – Azure Deployed Resume Website](https://github.com/keshav-raj-gautam/Cloud-resume-challenge)  
+Personal Resume Website with Visitor Counter and CI/CD Automation  
+
+**Tools:** Azure Storage, Azure Function App, Cosmos DB, Terraform, Jenkins, Ngrok, GitHub  
+
+- Developed a personal resume website hosted on Azure Storage with a live visitor counter  
+- Implemented the visitor counter using an Azure Function App connected to Cosmos DB  
+- Wrote Infrastructure as Code in Terraform with reusable modules for Storage, Function App, and Cosmos DB  
+- Built a Jenkins CI/CD pipeline triggered via GitHub webhook to automate infrastructure provisioning and frontend deployment  
+- Configured the pipeline to update the Function URL, deploy frontend changes, and send email notifications upon success  
+- Exposed local Jenkins server using Ngrok for webhook integration and seamless GitHub triggering
+
+---
+
 ### [ Wanderlust – Kubernetes-Deployed Travel Blogging App](https://github.com/keshav-raj-gautam/wanderlust)  
 3-Tier Web Application Deployment on Kubernetes
 **Tools:** Docker, Jenkins, ArgoCD, Prometheus, Grafana, GitHub  
